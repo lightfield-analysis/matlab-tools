@@ -54,9 +54,6 @@ Authors: Katrin Honauer & Ole Johannsen
 
 Website: www.lightfield-analysis.net 
 
- 
-This add-on is based upon work of Maximilian Diebold. 
-
 The 4D Light Field Benchmark was jointly created by the University of Konstanz and the HCI at Heidelberg University. If you use any part of the benchmark, please cite our paper "A dataset and evaluation methodology for depth estimation on 4D light fields". Thanks! 
  
  @inproceedings{honauer2016benchmark, 
