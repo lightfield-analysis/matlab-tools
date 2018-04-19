@@ -23,7 +23,8 @@ fprintf(fid, 'Pf\n');
 fprintf(fid, '%d %d\n', cols, rows);
 fprintf(fid, '%f\n', scale);
 
-fscanf(fid, '%c', 1);
+%this line sometimes leads to problems
+%fscanf(fid, '%c', 1);
 
 fwrite(fid, D(end:-1:1, :)', 'single');
 
